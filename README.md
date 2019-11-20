@@ -3,11 +3,11 @@
 Sujet 4, groupe 6. Semaine du 18 au 22 novembre 2019.
 
 Participants :
-- [Sylvain Combettes](https://github.com/sylvaincom), Ecole des Mines de Nancy
-- Mohammed El Yaagoubi, TELECOM Nancy
-- Guillaume Gatti, TELECOM Nancy
-- Zouhair Janati-Idrissi, TELECOM Nancy
-- [Ali Labbaize](https://github.com/AliLabbaize), TELECOM Nancy
+- [Sylvain Combettes](https://www.linkedin.com/in/sylvain-combettes/), Ecole des Mines de Nancy
+- [Mohammed El Yaagoubi](https://www.linkedin.com/in/melyaagoubi/), TELECOM Nancy
+- [Guillaume Gatti](https://www.linkedin.com/in/guillaume-gatti-b2a482149/), TELECOM Nancy
+- [Zouhair Janati-Idrissi](https://www.linkedin.com/in/zouhair-janati-idrissi/), TELECOM Nancy
+- [Ali Labbaize](https://www.linkedin.com/in/alilabbaize/), TELECOM Nancy
 
 Encadrants :
 - [Adrien Coulet](https://members.loria.fr/ACoulet/), Loria

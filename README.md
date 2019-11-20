@@ -13,4 +13,4 @@ Encadrants :
 - [Adrien Coulet](https://members.loria.fr/ACoulet/), Loria
 - [Joël Legrand](http://joel-legrand.fr/hugo/), Loria
 
-Sujet : Amélioration des performances de la reconnaissances d'entités nommées biomédicales complexes avec [PGxCorpus](https://www.biorxiv.org/content/10.1101/534388v3) et [BioBERT](https://arxiv.org/abs/1901.08746).
+Sujet : Amélioration des performances de la reconnaissances d'entités nommées biomédicales complexes (NER) avec [PGxCorpus](https://www.biorxiv.org/content/10.1101/534388v3) et [BioBERT](https://arxiv.org/abs/1901.08746).

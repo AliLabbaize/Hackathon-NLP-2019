@@ -23,6 +23,7 @@ Sujet : Amélioration des performances de la reconnaissances d'entités nommées
 To use BioBERT, we need pre-trained weights of BioBERT, which you can download from [NAVER GitHub repository for BioBERT pre-trained weights](https://github.com/naver/biobert-pretrained).
 
 Run the parsing script and put the files in the biobert dir. From now on, `$NER_DIR` indicates a folder for a single dataset which should include `train_dev.tsv`, `train.tsv`, `devel.tsv` and `test.tsv`. For example, `export NER_DIR=~/bioBERT/biodatasets/NERdata/NCBI-disease`. Following command runs fine-tuining code on NER with default arguments.
+```
 
 mkdir /tmp/bioner/
 python run_ner.py \
@@ -37,7 +38,7 @@ python run_ner.py \
 ```
 You can change the arguments as you want. Once you have trained your model, you can use it in inference mode by using `--do_train=false --do_predict=true` for evaluating `test.tsv`.
 The token-level evaluation result will be printed as stdout format. For example, the result for NCBI-disease dataset will be like this:
-```
+
 INFO:tensorflow:***** token-level evaluation results *****
 INFO:tensorflow:  eval_f = 0.9028707
 INFO:tensorflow:  eval_precision = 0.8839457

@@ -38,6 +38,7 @@ python run_ner.py \
 ```
 You can change the arguments as you want. Once you have trained your model, you can use it in inference mode by using `--do_train=false --do_predict=true` for evaluating `test.tsv`.
 The token-level evaluation result will be printed as stdout format. For example, the result for NCBI-disease dataset will be like this:
+```
 
 INFO:tensorflow:***** token-level evaluation results *****
 INFO:tensorflow:  eval_f = 0.9028707
